@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Indie Flower', cursive;
+    background-color: #1b1b1b;
 }
 
 .app {
@@ -20,10 +21,12 @@ header h1 {
     margin: 50px 0px 30px 0px;
     text-align: center;
     font-size: 40px;
+    color: azure;
 }
 
 header p {
     font-size: 20px;
+    color: azure;
 }
 
 .pads {
@@ -45,16 +48,16 @@ header p {
     background-color: #FF7F50;
 }
 .pad3 {
-    background-color: #238B57;
+    background-color: #fd10de;
 }
 .pad4 {
     background-color: #ADFF2F;
 }
 .pad5 {
-    background-color: #4682b4;
+    background-color: #0461ec;
 }
 .pad6 {
-    background-color: #1b1b1b;
+    background-color: #238B57;
 }
 
 @keyframes jump {
