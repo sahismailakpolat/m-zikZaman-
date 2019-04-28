@@ -5,10 +5,10 @@ window.addEventListener("load", () => {
   const colors = [
     "#DC143C",
     "#FF7F50",
-    "#238B57",
+    "#fd10de",
     "#ADFF2F",
-    "#4682b4",
-    "#1b1b1b"
+    "#0461ec",
+    "#238B57"
   ]
 
   //lets get the sound here
